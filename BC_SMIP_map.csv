@@ -1,0 +1,19 @@
+Availability Rate,587afafb-cdf6-4e00-9993-d9aa2fbe44b1,587afafb-cdf6-4e00-9993-d9aa2fbe44b1,Machining
+Prescriptive Maintenance Shutdown (BreakDownTime),373d09e5-3e56-406f-b06f-e525f0de8eb8,373d09e5-3e56-406f-b06f-e525f0de8eb8,Machining
+Front Bearing temperature,dd273c3b-6585-4ed1-a330-bcb936892e39,dd273c3b-6585-4ed1-a330-bcb936892e39,Milling
+Humidity,06bf6086-d7f1-4164-8d1b-b64fbe383ba5,06bf6086-d7f1-4164-8d1b-b64fbe383ba5,Machining
+Energy Consumption Cost,90be4f56-f34a-4c2b-b67c-aeacf6729033,90be4f56-f34a-4c2b-b67c-aeacf6729033,Milling
+Machine Energy Consumption Mw,f17b3ee4-6f3c-47b2-bb6f-ddc5d7e20014,f17b3ee4-6f3c-47b2-bb6f-ddc5d7e20014,Milling
+Machine Energy Intensity,d6b60a72-8389-4ac1-ad6c-612348e83c6b,d6b60a72-8389-4ac1-ad6c-612348e83c6b,
+Motor Current,6d1d4bd9-f5af-4a75-a704-873f8821fddb,6d1d4bd9-f5af-4a75-a704-873f8821fddb,Milling
+MTBF,1bd5221a-f18d-4e6d-b804-4d60773f49ed,1bd5221a-f18d-4e6d-b804-4d60773f49ed,Milling
+OEE,899cd430-69a4-4d61-98bd-4e1d761de486,899cd430-69a4-4d61-98bd-4e1d761de486,Machining
+Energy Consumption Cost,bb68c97d-8c62-450d-884e-46feb7e10193,bb68c97d-8c62-450d-884e-46feb7e10193,Machining
+Energy Consumption Mw,26b529ba-0015-45be-89c2-23ddf72742d0,26b529ba-0015-45be-89c2-23ddf72742d0,Machining
+Overall Energy Intensity,c73f750e-c6aa-44c6-afdc-312a1d7cd1fc,c73f750e-c6aa-44c6-afdc-312a1d7cd1fc,Machining
+Part Count,6cb545e9-44a1-404d-8672-39fbf42dc834,6cb545e9-44a1-404d-8672-39fbf42dc834,
+Quality Rate %,c188103e-6f40-4774-a536-205e2c454292,c188103e-6f40-4774-a536-205e2c454292,Machining
+Rear Bearing Temperature,d1bb6489-1873-4c01-98c5-a7a94956dfc3,d1bb6489-1873-4c01-98c5-a7a94956dfc3,Milling
+Ambient Temperature,de609093-3a1e-4f1d-86b4-bcd833466096,de609093-3a1e-4f1d-86b4-bcd833466096,Machining
+Throughput Rate,b6d5e88d-94b9-40b1-b3ad-0cc9db268b4c,b6d5e88d-94b9-40b1-b3ad-0cc9db268b4c,
+Waste %,df71a9a5-bc42-4cf1-93ee-97c1a8b0e080,df71a9a5-bc42-4cf1-93ee-97c1a8b0e080,Machining
